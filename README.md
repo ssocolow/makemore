@@ -1,0 +1,2 @@
+# makemore
+Following Karpathy
